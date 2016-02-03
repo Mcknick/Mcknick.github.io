@@ -1,0 +1,8 @@
+---
+published: true
+title: Test post!
+layout: post
+---
+Testing plot.ly as an interactive plot generator:
+
+<iframe width="700" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~Mcknick/1.embed"></iframe>
