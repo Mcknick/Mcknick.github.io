@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Mcknick.github.io
+title: Data Viz Test Blog
+email: 
+author: Mcknick
+description: My Data Viz Test Blog
+paginate: 3
+google_analytics: 
